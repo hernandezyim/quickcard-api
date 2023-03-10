@@ -1,7 +1,7 @@
 
-```md
+
 # QuickCard Api
-```
+
 
 # Routes
 
